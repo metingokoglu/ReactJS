@@ -15,4 +15,5 @@
 
 Link : https://metingokoglu-pizzamenu.netlify.app/
 
-![Ekran görüntüsü 2024-06-18 161139](https://github.com/metingokoglu/reactjs-course/assets/22753989/64f558ea-9775-4897-8beb-c451d10c013e)
+![Ekran görüntüsü 2024-06-18 161139](https://github.com/metingokoglu/ReactJS/assets/22753989/e0182098-2d62-4c24-ab98-cfd78d629f6e)
+
